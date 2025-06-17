@@ -31,6 +31,14 @@ A simple web application to manage event guest lists. Users can add guests, mark
 - `index.html` — The main HTML file containing the structure.
 - `style.css` — Styles for the application.
 - `script.js` — JavaScript logic for managing guests.
+  
+## Project Structure
+guest-list-manager/
+├── index.html      
+├── style.css        
+└── script.js        
+
+CopyRun
 
 ## License
 
